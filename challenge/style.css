@@ -245,6 +245,7 @@ img {
   gap: 10%;
   justify-content: space-between;
   overflow: hidden;
+  padding-bottom: 1.5rem;
 }
 
 .footer-container-main-extra {
